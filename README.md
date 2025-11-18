@@ -1,18 +1,3 @@
-<!--
-Hello Jonathan,
-
-This is the definitive version, engineered for flawless rendering and superior visual strategy.
-
-CHANGELOG:
-1.  **FIX - Certifications:** The entire section has been rebuilt. I have removed the problematic <table> structure. It now uses a simple, horizontally-aligned paragraph with non-breaking spaces (`&nbsp;`) for spacing. This is a 100% reliable method that will render correctly on all platforms.
-2.  **FIX - GitHub Activity UI/UX:** This section has been completely re-imagined based on your feedback.
-    - **REMOVED:** The `github-readme-stats` card has been deleted. It was not presenting you in the best light.
-    - **ADDED:** It has been replaced with the `github-readme-streak-stats` card. This is a cleaner, more professional visual that strategically highlights your day-to-day commitment and consistency—a far more valuable metric for a freelance client to see.
-    - The distracting trophy case is also removed to maintain a clean, focused aesthetic.
-
-This version is the result of our iterative process and is designed to be the perfect representation you've been looking for.
--->
-
 <div align="center">
 
   <!-- Profile View Counter -->
@@ -29,7 +14,7 @@ This version is the result of our iterative process and is designed to be the pe
   <p>
     I empower businesses by transforming their Salesforce instances from a simple CRM into a strategic, automated asset.
     <br />
-    I don't just solve today's problems—I build scalable solutions that prevent tomorrow's.
+    I don't just solve today's problems, I build scalable solutions that prevent tomorrow's.
   </p>
 
   <!-- Social Links -->
@@ -52,29 +37,42 @@ This version is the result of our iterative process and is designed to be the pe
 
 ### 🚀 What I Offer to Your Business
 
-*   **⚙️ Strategic Automation & Process Optimization**
+*   **Strategic Automation & Process Optimization**
     *   I analyze your current workflows and architect powerful, scalable automations using Salesforce Flows that eliminate manual work, reduce errors, and free up your team to focus on high-value tasks.
-*   **📈 Business Analysis & Solution Architecture**
+*   **Business Analysis & Solution Architecture**
     *   I bridge the crucial gap between business stakeholders and technology. I translate your vision into a concrete technical roadmap, ensuring the final solution perfectly aligns with your business goals and drives measurable ROI.
-*   **🛡️ Org Health & DevOps Best Practices**
+*   **Org Health & DevOps Best Practices**
     *   Your Salesforce org is a critical asset. I implement robust DevOps frameworks, including Git-based version control (`sfdx-hardis`), to secure your metadata, ensure release stability, and create a clear audit trail for all changes.
-*   **☁️ Sales Cloud & CRM Enhancement**
+*   **Sales Cloud & CRM Enhancement**
     *   I fine-tune your Sales Cloud instance to maximize its effectiveness. From lead conversion to quote-to-cash, I configure the platform to provide your sales team with the data and tools they need to close deals faster.
 
 ---
 
 ### 💻 My Technology Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Salesforce_Platform-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce Platform"/>
-  <img src="https://img.shields.io/badge/Salesforce_Flow-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce Flow"/>
-  <img src="https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Sales Cloud"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="SFDX"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Agile-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Agile Methodology"/>
-</p>
+I leverage a modern stack of technologies, tools, and methodologies to deliver high-quality, scalable solutions.
+
+<div align="center">
+
+###  **Salesforce Platform**
+  
+  [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com)
+  &nbsp;
+  [![Flow](https://img.shields.io/badge/Flow-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/products/platform/products/flow/)
+  &nbsp;
+  [![Sales Cloud](https://img.shields.io/badge/Sales_Cloud-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/products/sales-cloud/overview/)
+  &nbsp;
+  [![SFDX](https://img.shields.io/badge/SFDX-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://developer.salesforce.com/tools/sfdxcli)
+
+###  **DevOps & Tools**
+
+  [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+  &nbsp;
+  [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+  &nbsp;
+  [![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/en/actions)
+
+</div>
 
 ---
 
@@ -116,24 +114,36 @@ I proactively implemented a modern DevOps framework by configuring a Git reposit
 
 ### 📜 My Certifications
 
-<!-- FIX: Replaced the failing <table> with a simple <p> tag and non-breaking spaces for a bulletproof layout. -->
-<p align="center">
-  <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-416b-a253-5d3c43788913/Salesforce_Certified_Administrator.png" width="100" alt="Salesforce Administrator Certification Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/a629b634-15a6-42c4-a5a4-7988a95c9112/Salesforce_Certified_Business_Analyst.png" width="100" alt="Salesforce Business Analyst Certification Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/d114f49b-e620-47b7-8f55-832f22209e7c/Salesforce_Certified_Sales_Cloud_Consultant.png" width="100" alt="Salesforce Sales Cloud Consultant Certification Badge"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
-    <img src="https://images.credly.com/size/110x110/images/2245a4de-1a73-4ceb-8524-7651a5e30573/Salesforce_Certified_Platform_App_Builder.png" width="100" alt="Salesforce Platform App Builder Certification Badge"/>
-  </a>
-</p>
+I am proud to hold the following Salesforce certifications, which represent my commitment to mastering the platform and delivering exceptional value.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none; padding: 5px;">
+        <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
+          <img src="https://img.shields.io/badge/Certified-Administrator-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Certified Administrator">
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 5px;">
+        <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
+          <img src="https://img.shields.io/badge/Certified-Business_Analyst-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Certified Business Analyst">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="border: none; padding: 5px;">
+        <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
+          <img src="https://img.shields.io/badge/Certified-Sales_Cloud_Consultant-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Sales Cloud Consultant">
+        </a>
+      </td>
+      <td align="center" style="border: none; padding: 5px;">
+        <a href="https://www.salesforce.com/trailblazer/pfmb7si8fjegrc0nko" target="_blank">
+          <img src="https://img.shields.io/badge/Certified-Platform_App_Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Platform App Builder">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
